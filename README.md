@@ -26,7 +26,7 @@ You have been given starter code for completing this assignment that can be foun
 
 You will also have to complete the `Sim` class which will take a `Car` object as input along with an array of route coordinates, and control stop locations. The `sim` class has one primary function called `run_sim` that will simulate whether a proposed constant speed is a viable solution for the race. It is viable if the energy level of the car never drops below 0.0 and if the car can make it to the end of the race by October 28th, 2023, 5pm. Your `run_sim` function should be calling functions from your `Car` class to calculate energy changes throughout the race. The `Sim.hpp` file already defines the series of constants e.g. race day start/end times that you can use.
 
-**In addition, you will have to provide something that makes your assignment go beyond the requirements**. What you choose is up to you, but you must explain how you have gone beyond what has been asked.
+**In addition, you will have to provide something that makes your assignment go beyond the requirements**. What you choose is up to you, but you must explain in a markdown file how you went beyond what was asked along with your submission.
 
 There are two .csv files located in the `data/` folder - `baseroute.csv` and `dni.csv`
 
